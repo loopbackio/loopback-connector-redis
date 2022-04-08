@@ -39,7 +39,7 @@
     "should": "~8.0.2"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.0.0",
     "redis": "^2.8.0",
     "strong-globalize": "^4.1.1"
   }
